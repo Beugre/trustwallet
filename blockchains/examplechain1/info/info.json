@@ -1,0 +1,16 @@
+{
+    "name": "Example Chain 1",
+    "website": "https://examplechain1.com",
+    "description": "Example Chain 1 is a demonstration blockchain for the Trust Wallet assets repository.",
+    "explorer": "https://explorer.examplechain1.com",
+    "symbol": "EXC1",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/examplechain1"
+        }
+    ]
+}
